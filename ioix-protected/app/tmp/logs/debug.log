@@ -1,0 +1,160 @@
+2014-11-06 17:01:35 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-06 17:01:35 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:28:56 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:28:56 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:29:17 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:29:17 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:29:47 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:29:47 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:29:56 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:29:56 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:30:10 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:30:10 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:30:16 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2014-11-23 23:30:16 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2015-04-08 18:17:43 Notice: Notice (8): Undefined variable: toView in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/Controller/RssController.php, line 44]
+Trace:
+RssController::index() - APP/Controller/RssController.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
+2015-04-08 18:17:43 Notice: Notice (8): Undefined variable: feed_url in [/home/h47730/data/www/fxweb.net.ua/ioix-protected/app/View/Rss/index.ctp, line 3]
+Trace:
+include - APP/View/Rss/index.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - ROOT/fxweb.net.ua/ioix/index.php, line 108
+
